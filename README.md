@@ -2,7 +2,7 @@
 
 **Software Engineer | MS in CS @ Northeastern University**
 
-I'm a software engineer specializing in distributed systems and microservices architecture, with 3+ years of professional experience building scalable backend systems. Currently pursuing my Master's in Computer Science at Northeastern University while seeking Summer 2025/2026 SWE internship opportunities.
+I'm a software engineer specializing in distributed systems and microservices architecture, with 3+ years of professional experience building scalable backend systems. Currently pursuing my Master's in Computer Science at Northeastern University while seeking Summer 2026 SWE internship opportunities.
 
 ## 🚀 About Me
 
@@ -95,14 +95,12 @@ I'm a software engineer specializing in distributed systems and microservices ar
 ## 🎓 Education
 
 - **M.S. Computer Science** - Northeastern University (2024-2027)
-- **M.S. Social Research Methods** - University College London (2019-2021)
-- **B.S. Economics** - University of Liverpool (2017-2019)
+- **M.S. University College London (2019-2021)
+- **B.S. University of Liverpool (2017-2019)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenwei-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenwei.fan@foxmail.com)
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShenweiFFF&color=blueviolet)
