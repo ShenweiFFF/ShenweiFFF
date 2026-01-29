@@ -19,11 +19,6 @@ Java, Python, C/C++, JavaScript, TypeScript, Go
 **Areas of Interest**  
 System Design • Distributed Systems • Database Architecture • Cloud Computing • Performance Optimization
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShenweiFFF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenweiFFF&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎓 Education
 
