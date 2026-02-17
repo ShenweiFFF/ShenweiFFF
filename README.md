@@ -14,10 +14,8 @@ Software engineering student with strong foundation in computer science and hand
 ## 💻 Technical Skills
 
 **Languages**  
-Java, Python, C/C++, JavaScript, TypeScript, Go
+C/C++, JavaScript, TypeScript, Go
 
-**Areas of Interest**  
-System Design • Distributed Systems • Database Architecture • Cloud Computing • Performance Optimization
 
 
 ## 🎓 Education
